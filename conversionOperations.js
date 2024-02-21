@@ -20,11 +20,17 @@
 
 //let poulami = 69;
 //let stringpoulami = String(poulami);
-let Aparannha = false
-let poulami = Number(Aparannha)
 
-console.log(Aparannha);
-console.log(typeof(Aparannha));
+// let value = 3
+// let negValue = -value
+// console.log(negValue); //-3
 
-console.log(typeof(poulami));
-console.log(poulami);
+// //for power 
+// console.log(2**4)
+// console.log(1+2+"4"); // this is not the right way 
+// console.log(+"");
+// console.log(+true);
+
+let gamecounter = 100
+gamecounter++
+console.log(gamecounter);
