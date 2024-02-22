@@ -31,6 +31,13 @@
 // console.log(+"");
 // console.log(+true);
 
-let gamecounter = 100
-gamecounter++
-console.log(gamecounter);
+// let gamecounter = 100
+// gamecounter++
+// console.log(gamecounter);
+
+
+console.log("1"+1);
+console.log(true+false);
+console.log(+false);
+console.log(-true);
+console.log(-false);
